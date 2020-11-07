@@ -1,0 +1,13 @@
+{
+  "name": "oyatry-education",
+  "version": "1.0.0",
+  "description": "\"Tutors, Tests, Meetings, Books, Courses\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test",
+    "client": "cd client && npm start",
+    "server": "cd server && nodemon index.js"
+  },
+  "author": "Terry Ebieto",
+  "license": "ISC"
+}
